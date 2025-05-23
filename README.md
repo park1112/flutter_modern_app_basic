@@ -1,6 +1,6 @@
 # AgroFlow - 농산물 유통 관리 시스템
 
-![AgroFlow Screenshot](/basic.png)
+<!-- ![AgroFlow Screenshot](/basic.png) -->
 
 <div align="center">
   <img src="/basic.png" width="300" />
