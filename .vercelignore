@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+coverage/
+lib/generated_plugin_registrant.dart
+test/
+
+# Android related
+android/
+**/android/
+
+# iOS related
+ios/
+**/ios/
+
+# macOS related
+macos/
+**/macos/
+
+# Windows related
+windows/
+**/windows/
+
+# Linux related
+linux/
+**/linux/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Build files (except web)
+build/app/
+build/ios/
+build/macos/
+build/windows/
+build/linux/
+
+# Miscellaneous
+*.log
+.DS_Store

@@ -1,5 +1,11 @@
 # AgroFlow - 농산물 유통 관리 시스템
 
+![AgroFlow Screenshot](/basic.png)
+
+<div align="center">
+  <img src="/basic.png" width="300" />
+</div>
+
 AgroFlow는 농산물 공급자와 구매자를 위한 통합 유통 관리 모바일 애플리케이션입니다.
 
 ## 🚀 주요 기능
