@@ -1,4 +1,5 @@
 {
+  "regions": ["icn1"],
   "name": "agroflow",
   "version": 2,
   "public": false,
